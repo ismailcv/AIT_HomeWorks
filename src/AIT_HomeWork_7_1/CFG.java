@@ -1,11 +1,10 @@
-
+//KOrdinatları verilen noktalar için konveks hull
+//algoritmasını kullanarak etrafını çevreleyiniz
 package AIT_HomeWork_7_1;
-
 
 import java.util.*;
 
-class Point
-{
+class Point{
 	int x, y;
 	Point(int x, int y){
 		this.x=x;
