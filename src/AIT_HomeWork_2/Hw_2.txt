@@ -1,0 +1,2 @@
+Bu ödevde brute force (Kaba kuvvet) algoritması alfa nümerik 4 haneli
+şifreyi çözen bir program oluşturuyoruz.

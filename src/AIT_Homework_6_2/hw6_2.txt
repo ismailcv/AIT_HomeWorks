@@ -1,0 +1,1 @@
+Burada bir grafın çevrimsel olup olmadığını kontrol edişyoruz

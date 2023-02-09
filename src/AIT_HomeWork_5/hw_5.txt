@@ -1,0 +1,5 @@
+Knapsack Problem n adet eşya vardır. Her bir eşyanın ağırlığı ve değeri 
+mevcuttur. Çantanın taşıyabileceği max. ağırlık değeri mevcuttur. 
+Aşağıdaki tabloya göre çantaya hangi eşyaların
+koyulması daha karlı olacaktır? Kaba kuvvet yöntemiyle çözümü bulan 
+programı derleyiniz.

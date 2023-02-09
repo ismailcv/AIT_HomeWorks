@@ -1,0 +1,3 @@
+100.000 elemanlı bir dizinin modunu bulma
+önce diziyi sıralamadan yapıyoruz. Sonra diziyi sıralayarak
+dizinin modunu buluyoruz ve zamansal olarak diziyi karşılaştırıyoruz.

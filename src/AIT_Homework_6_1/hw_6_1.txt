@@ -1,0 +1,2 @@
+Aşağıda komşuluk matrisi verilen graphların yönlü olup 
+olmadığını bulan programı yazınız.

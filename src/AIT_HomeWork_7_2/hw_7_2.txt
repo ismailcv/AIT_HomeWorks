@@ -1,0 +1,2 @@
+İçerisinde 1’den 100’e kadar rastgele değerler olan bir diziyi 
+ Merge Sort algoritması ile küçükten büyüğe, büyükten küçüğe sıralayınız.

@@ -1,0 +1,3 @@
+Burada şunu yapacağız 3 tane arama ve 3 tane sıralama algoritmasını zamansal olarak
+karşılaştırmasını yapıcaz best, worst ve avarage durum olarak.
+Yaptığımız bu karşılaştırmaların sonucu excel dosyasına not edeceğiz.

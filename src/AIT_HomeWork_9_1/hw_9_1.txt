@@ -1,0 +1,2 @@
+0 ile 5000 arasında rastgele üretilmiş 1000 adet sayıyı 
+counting sort kullanarak küçükten büyüğe sıralayınız.

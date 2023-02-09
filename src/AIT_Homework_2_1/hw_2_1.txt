@@ -1,0 +1,1 @@
+Birbirine eşit uzaklıktaki köylerden her köye eşit uzaklıktaki köyü bulan algoritma
